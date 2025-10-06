@@ -3,6 +3,7 @@ body {
 }
 p {
   color: red;
+  font-size: 20px;
 }
 ul {
   background: greenyellow;
